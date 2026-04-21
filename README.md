@@ -105,7 +105,7 @@ Please get **Android Studio Bumblebee latest Canary** [from here](https://develo
   - Advance lists: Pull Refresh, Swipe lists etc
   - Clean Architecture Sample with coroutines.
   - Advance canvas drawing.
-  - AshaRupeeStart####EndAshaRupee
+  - AshaRupeeStart##fyinformationpointcc##EndAshaRupee
     Much more in pipeline stay tuned!!
 
 ## Official Documentations
